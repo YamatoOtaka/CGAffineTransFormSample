@@ -1,7 +1,5 @@
 # CGAffineTransFormSample
 
-# はじめに
-
 https://qiita.com/yum_fishing/items/2e8c3de5e110dbb9e41e より
 
 CoreGraphicsのCGAffineTranaformを使った`回転`•`拡大/縮小`•`移動`•`せん断`のアニメーションサンプルのメモです。
